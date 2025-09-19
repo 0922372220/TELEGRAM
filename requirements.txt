@@ -1,0 +1,8 @@
+pyTelegramBotAPI==4.13.0
+openai==1.0.0
+reportlab==3.6.12
+sqlalchemy==2.0.18
+psycopg2-binary==2.9.7
+pdfminer.six==20201018
+boto3==1.26.120
+google-cloud-storage==2.13.0
